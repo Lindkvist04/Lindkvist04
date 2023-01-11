@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a personalized website and some Cyber security**
 
-- 🌱 I’m currently learning **HTML coding, Cyber security and Unreal Engine.**
+- 🌱 I’m currently learning **HTML coding, Cybersecurity and Unreal Engine.**
 
 - 💬 Ask me about **anything**
 
