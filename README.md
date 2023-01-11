@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **filip.lindkvist04@gmail.com**
 
-- 📄 Know about my experiences [https://gavle-my.sharepoint.com/personal/filip_lindkvist_skola_gavle_se/Documents/DaoDat/Mitt%20CV%20till%20Microsoft.pdf](https://gavle-my.sharepoint.com/personal/filip_lindkvist_skola_gavle_se/Documents/DaoDat/Mitt%20CV%20till%20Microsoft.pdf)
-
+- 📄 Know about my experiences <a href="https://github.com/Lindkvist04/CV/blob/main/Experience" target="blank"
 - ⚡ Fun fact **I have played CS:GO for a semi-professinal team.**
 
 <h3 align="left">Connect with me:</h3>
