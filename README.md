@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **filip.lindkvist04@gmail.com**
 
-- 📄 Know about my experiences a <href="https://github.com/Lindkvist04/Lindkvist04/blob/main/English%20CV.pdf">
+- 📄 Know about my experiences a https://github.com/Lindkvist04/Lindkvist04/blob/main/English%20CV.pdf
 
 - ⚡ Fun fact **I have played CS:GO for a semi-professinal team.**
 
