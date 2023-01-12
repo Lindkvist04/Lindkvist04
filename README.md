@@ -12,6 +12,7 @@
 - 📫 How to reach me **filip.lindkvist04@gmail.com**
 
 - 📄 Know about my experiences a 
+
 - ⚡ Fun fact **I have played CS:GO for a semi-professinal team.**
 
 <h3 align="left">Connect with me:</h3>
